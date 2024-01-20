@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! 
+
+I am KC (Kaustubh Chakradeo), and I am a PhD fellow at the University of Copenhagen at the Section of Epidemiology, Department of Public Health. My PhD is based on deep learning based medical imaging analysis. I run two main projects- the first is prediction of malaria in sub-Saharan Africa using satellite images with deep learning. The second project is prediction of biological age, disease prediction, and survival analysis of healthy patients from their digitised skin biopsy samples, using self supervised deep learning techniques. 
+
+Besides these, my main academic interests are using imaging and artificial intelligence, AI ethics and algorithmic fairness. In imaging, my main focus is various modalities of medical imagery like radiology (MRI scans, mammography, CT scans) and histopathology. I am interested in projects for using AI for minorities. Besides this, I am also interested in the AI Act 2024. I graduated with a Master of Science in Artificial Intelligence at Radboud University, the Netherlands. 
+
+
 
 A data-driven personal website
 ======
