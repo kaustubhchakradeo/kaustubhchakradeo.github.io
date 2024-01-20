@@ -7,7 +7,7 @@ the recurrence of breast cancer; and compare all the models by using different m
 and Decision Tree using metrics like Gini Index, Entropy and Information Gain. Support Vector Machine and K-fold Cross-Validation gave the best results for recurrence and non-recurrence predictions.'
 date: 2019-12-06
 venue: 'IEEE Explore'
-paperurl: 'http://academicpages.github.io/files/Breast_Cancer_Recurrence_Prediction_using_Machine_Learning.pdf'
+paperurl: 'http://kc.github.io/files/Breast_Cancer_Recurrence_Prediction_using_Machine_Learning.pdf'
 citation: 'Chakradeo, K., Vyawahare, S., & Pawar, P. (2019, December). Breast cancer recurrence prediction using machine learning. In 2019 IEEE conference on information and communication technology (pp. 1-7). IEEE.'
 ---
 The most common cancer among women is breast cancer. Around 12% of women are affected by it all over the world. Recurrent breast cancer is a term used for breast cancer which returns even after a successful treatment. This research aims to use Machine learning to detect and predict

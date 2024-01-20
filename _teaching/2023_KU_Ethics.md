@@ -11,7 +11,6 @@ location: "Copenhagen, Denmark"
 Introductory Lecture to Artificial Intelligence. The lecture was divided into two parts- basics of Computer Vision for Medical Imaging, and Challenges in AI. 
 
 Computer Vision for Medical Imaging
-======
 - Introduction of CNNs
 - Timeline for CNN models
 - Use of AI models in radiology
@@ -20,7 +19,6 @@ Computer Vision for Medical Imaging
 - Low cost AI solutions using imaging
 
 Challenges in AI
-======
 - Adversarial attacks
 - Overcoming adversarial attacks
 - When can you trust AI?
