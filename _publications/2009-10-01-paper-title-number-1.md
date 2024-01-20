@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Chatbot assistant for English as a second language learners"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020-02-18-Chatbot-assistant-for-English-as-a-second-language-learners
+excerpt: 'This work demonstrates an experimental implementation of a helper bot using IBM Watson. It is primarily aimed at people who know English as a second language. With the help of IBM Watson Assistant tool, the chatbot uses APIs like Google Translate API, Text to Speech API, SimpleWIki and Musixmatch API, to provide features like rich responses, translation to regional languages, text to speech conversion facilities,  useful information in simpler English, and displaying music lyrics for music in regional languages. This is particularly helpful for those
+who are newly learning English and are more comfortable in their regional language.'
+date: 2020-02-18
+venue: 'IEEE'
+paperurl: 'http://academicpages.github.io/files/Chatbot_Assistant_for_English_as_a_Second_Language_Learners.pdf'
+citation: 'Vyawahare, S., & Chakradeo, K. (2020, February). Chatbot assistant for English as a second language learners. In 2020 International Conference on Convergence to Digital World-Quo Vadis (ICCDW) (pp. 1-5). IEEE.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This work demonstrates an experimental implementation of a helper bot using IBM Watson. It is primarily aimed at people who know English as a second language. With the help of IBM Watson Assistant tool, the chatbot uses APIs like Google Translate API, Text to Speech API, SimpleWIki and Musixmatch API, to provide features like rich responses, translation to regional languages, text to speech conversion facilities,  useful information in simpler English, and displaying music lyrics for music in regional languages. This is particularly helpful for those
+who are newly learning English and are more comfortable in their regional language.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Chatbot_Assistant_for_English_as_a_Second_Language_Learners.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Vyawahare, S., & Chakradeo, K. (2020, February). Chatbot assistant for English as a second language learners. In 2020 International Conference on Convergence to Digital World-Quo Vadis (ICCDW) (pp. 1-5). IEEE.

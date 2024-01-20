@@ -1,15 +1,17 @@
+
 ---
-title: "Paper Title Number 3"
+title: "Malaria Parasite Detection Using Deep Learning Methods"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021-10-01-Malaria-Parasite-Detection-Using-Deep-Learning-Methods
+excerpt: 'Malaria is a serious disease which affects hundreds of millions of people around the world, each year. If not treated in time, it can be fatal. Despite recent developments in malaria diagnostics, the microscopy method to detect malaria remains the most common. Unfortunately, the accuracy of microscopic diagnostics is dependent on the skill of the microscopist and limits the throughput of malaria diagnosis. With the development of Artificial Intelligence tools and Deep Learning techniques in particular, it is possible to lower the cost, while achieving an overall higher accuracy. In this paper, we present a VGG-based model and compare it with previously developed models for identifying infected cells. Our model surpasses most previously developed models in a range of the accuracy metrics. The model has an advantage of being constructed from a relatively small number of layers. This reduces the computer resources and computational time. Moreover, we test our model on two types of datasets and argue that the currently developed deep-learning-based methods cannot efficiently distinguish between infected and contaminated cells. A more precise study of suspicious regions is required.'
+date: 2021-10-01
+venue: 'International Journal of Computer and Information Engineering'
+paperurl: 'http://academicpages.github.io/files/Malaria-Parasite-Detection-Using-Deep-Learning-Methods.pdf'
+citation: 'Chakradeo, K., Delves, M., & Titarenko, S. (2021). Malaria parasite detection using deep learning methods. International Journal of Computer and Information Engineering, 15(2), 175-182.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Malaria is a serious disease which affects hundreds of millions of people around the world, each year. If not treated in time, it can be fatal. Despite recent developments in malaria diagnostics, the microscopy method to detect malaria remains the most common. Unfortunately, the accuracy of microscopic diagnostics is dependent on the skill of the microscopist and limits the throughput of malaria diagnosis. With the development of Artificial Intelligence tools and Deep Learning techniques in particular, it is possible to lower the cost, while achieving an overall higher accuracy. In this paper, we present a VGG-based model and compare it with previously developed models for identifying infected cells. Our model surpasses most previously developed models in a range of the accuracy metrics. The model has an advantage of being constructed from a relatively small number of layers. This reduces the computer resources and computational time. Moreover, we test our model on two types of datasets and argue that the currently developed deep-learning-based methods cannot efficiently distinguish between infected and contaminated cells. A more precise study of suspicious regions is required.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://academicpages.github.io/files/Malaria-Parasite-Detection-Using-Deep-Learning-Methods.pdf)
+
+Recommended citation: Chakradeo, K., Delves, M., & Titarenko, S. (2021). Malaria parasite detection using deep learning methods. International Journal of Computer and Information Engineering, 15(2), 175-182.
