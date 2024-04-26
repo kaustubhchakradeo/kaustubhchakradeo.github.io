@@ -11,6 +11,8 @@ author_profile: true
 
 <a href="https://ieeexplore.ieee.org/abstract/document/9318672/" target="blank"> Chatbot assistant for English as a second language learners </a> Vyawahare, Sanyog., **Chakradeo, Kaustubh.**\
 
+<a href="https://ieeexplore.ieee.org/abstract/document/10414062/" target="blank"> Real-time Plant Disease Dataset Development and Detection of Plant Disease Using Deep Learning </a> Joseph, Diana., Pawar, Pranav., **Chakradeo, Kaustubh.**\
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
