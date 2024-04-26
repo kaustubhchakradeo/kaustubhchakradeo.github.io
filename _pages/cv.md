@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Information Technology, Pune University, 2019
+* Master of Science in Artificial Intelligence, Radboud University, 2022
+* Ph.D in Deep Learning for Medical Imaging, University of Copenhagen, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2021 - September 2021: Research Intern
+  * ScreenPoint Medical
+  * Duties included: Developing an Out of Distribution model to create automated confidence scores for breast cancer mammography images as a part of quality control.  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+*  October 2021 - May 2022: Research Intern (Thesis)
+  * Thirona Bv
+  * Duties included: Developing a deep learning model for classifying phases of respiration- inspiration and expiration from 3D chest CT scans to help in pulmonary disease detection
+    
+<!---Skills
 ======
-* Skill 1
+* Main Language: Python- Numpy 
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3-->
 
 Publications
 ======
@@ -42,7 +40,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -54,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
